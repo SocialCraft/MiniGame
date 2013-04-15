@@ -1,0 +1,4 @@
+error:
+    sampleError: This is ;0; error!
+message:
+    sampleMessage: ;green;This is sample message which says: ;0;
